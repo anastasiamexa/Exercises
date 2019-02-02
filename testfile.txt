@@ -1,0 +1,5 @@
+# This is the test file
+print("Hello World!") #comment
+print("I am trying to delete the comments # in this program")
+print('I am trying to delete the comments' # in this program')
+# Wish me luck!
